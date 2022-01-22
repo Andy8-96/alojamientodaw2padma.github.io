@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://raw.githubusercontent.com/Andy8-96/alojamientodaw2padma.github.io/master/sitemap.xml
